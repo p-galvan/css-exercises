@@ -9,14 +9,13 @@ body {
   /* CHANGE ME */
   padding: 29px;
   margin: 12px;
-  view;
 }
 
 .two {
   background: lightblue;
   border: 3px solid purple;
   /* CHANGE ME */
-  margin-bottom: 0px;
+  margin-bottom: 48px;
 }
 
 .three {
@@ -24,6 +23,6 @@ body {
   border: 3px solid brown;
   width: 200px;
   /* CHANGE ME */
-  padding: 0px;
-  margin-left: 0px;
+  padding: 29px;
+  margin-left: 335px;
 }

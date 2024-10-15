@@ -17,6 +17,7 @@ body {
 
 .content{
   display: flex;
+
 }
 
 .footer {
@@ -40,6 +41,8 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  width: 250px;
+  padding: 10px;
 }
 
 a {
@@ -53,4 +56,17 @@ ul {
   font-size: 24px;
   margin: 0;
   padding: 0;
+}
+
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 48px;
+  gap: 20px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
